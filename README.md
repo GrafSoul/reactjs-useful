@@ -59,7 +59,7 @@ Collection of useful services (In the process of adding interesting tools).
 ## Useful
 
 ✔ [Awesome React] - A collection of awesome things regarding the React ecosystem.  
-✔ [React Starter Projects] - Collection React starter projects.
+✔ [React Starter Projects] - Collection React starter projects.  
 ✔ [useHooks] - Easy to understand React Hook recipes by Gabe Ragland.  
 ✔ [Bundlephobia] - Find the cost of adding a npm package to your bundle.  
 ✔ [Why Did You Render] - Patches React to notify you about avoidable re-renders. (Works with React Native).  
