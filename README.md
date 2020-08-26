@@ -9,7 +9,7 @@ Collection of useful services (In the process of adding interesting tools).
 ✔ [React] - A JavaScript library for building user interfaces.  
 ✔ [React Native] - Create native apps for Android and iOS using React.  
 ✔ [React 360] - Create exciting 360 and VR experiences using React.  
-✔ [Viroreact] - ViroReact is an open source developer platform for rapidly building AR/VR applications using React Native.
+✔ [ViroReact] - ViroReact is an open source developer platform for rapidly building AR/VR applications using React Native.
 
 ### React Frameworks
 
